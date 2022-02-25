@@ -33,15 +33,15 @@ Using Pandas for below data cleaning task
   - Plot the pie chart
 
 # What next?
-# Use NLP to identity key words? 
-# Topic Modelling
-# Reference: https://www.youtube.com/watch?v=aPMPyUoFH8U
-# SMV or Logistic Regression for theme classification?
+  - Use NLP to identity key words? 
+  - Topic Modelling
+  - Reference: https://www.youtube.com/watch?v=aPMPyUoFH8U
+  - SMV or Logistic Regression for theme classification?
 
 
 # Question:
-# 1) Really need to drop columns in training dataset
-# 2) After Model trained, do we still need to remove duplicatue comment?
-# 3) As comment data is retrieved daily, do I need to ensure test or new data did not include to training data?
-# 4) As it is Amazon data struture only, do I need to modify other customer data as same data structure?
+  1) Really need to drop columns in training dataset
+  2) After Model trained, do we still need to remove duplicatue comment?
+  3) As comment data is retrieved daily, do I need to ensure test or new data did not include to training data?
+  4) As it is Amazon data struture only, do I need to modify other customer data as same data structure?
 
