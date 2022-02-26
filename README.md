@@ -33,10 +33,15 @@ Using Pandas for below data cleaning task
   - Plot the pie chart
 
 # What next?
-  - Use NLP to identity key words? 
-  - Topic Modelling
+Use Supervise ML
+1) Use NLP to identity key words? 
+  - Bag of Word
+  - TF-IDF
+  - Topic Modelling?
   - Reference: https://www.youtube.com/watch?v=aPMPyUoFH8U
-  - SMV or Logistic Regression for theme classification?
+
+2) Theme Classification
+  - SMV or Logistic Regression?
 
 
 # Question:
